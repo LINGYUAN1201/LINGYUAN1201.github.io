@@ -14,4 +14,4 @@ During my undergraduate years, I studied economics and statistics, and focused o
 
 My main research work is based on r-language and I have learnt software like MATLAB, Python, Eviews. Therefore I am committed to open access and I will share my code and research on Github and my personal homepage.
 
-Here is my CV[CV](https://maifile.cn/est/d2486964977037/pdf).
+Here is my [CV](https://maifile.cn/est/d2486964977037/pdf).
