@@ -4,4 +4,4 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/plo
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+On the basis of the optimisation performed, the loss functions of the RNN, GRU and LSTM algorithms all tend to stabilise after a certain period of iteration.
