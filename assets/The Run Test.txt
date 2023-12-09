@@ -1,0 +1,69 @@
+# Given binary vector x
+x <- c(1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0)
+
+# Convert x to a factor based on the signs relative to its median
+y <- factor(sign(x - median(x)))
+
+# Define a function run.test to process the factor y (with an optional cut parameter)
+run.test <- function(y, cut = 0) {
+  if (cut != 0) x <- (y > cut) * 1 
+  else x <- y
+}
+
+# Call the run.test function with the factor y
+run.test(y)
+
+# Calculate basic parameters and statistics
+N <- length(x)
+k <- 1
+for (i in 1:(N - 1)) if (x[i] != x[i + 1]) k <- k + 1
+r <- k
+m <- sum(1 - x)
+n <- N - m
+
+# Define probability functions P1 and P2
+P1 <- function(m, n, k) {
+  2 * choose(m - 1, k - 1) / choose(m + n, n) * choose(n - 1, k - 1)
+}
+
+P2 <- function(m, n, k) {
+  choose(m - 1, k - 1) * choose(n - 1, k) / choose(m + n, n) +
+    choose(m - 1, k) * choose(n - 1, k - 1) / choose(m + n, n)
+}
+
+# Calculate statistics and p-values
+r2 <- floor(r / 2)
+if (r2 == r / 2) {
+  pv <- 0
+  for (i in 1:r2) pv <- pv + P1(m, n, i)
+  for (i in 1:(r2 - 1)) pv <- pv + P2(m, n, i)
+} else {
+  pv <- 0
+  for (i in 1:r2) pv <- pv + P1(m, n, i)
+  for (i in 1:r2) pv <- pv + P2(m, n, i)
+}
+
+# Calculate additional p-value considering the parity of r
+if (r2 == r / 2) pv1 <- 1 - pv + P1(m, n, r2) else pv1 <- 1 - pv + P2(m, n, r2)
+
+# Calculate z-score and approximate p-values
+z <- (r - 2 * m * n / N - 1) / sqrt(2 * m * n * (2 * m * n - m - n) / (m + n)^2 / (m + n - 1))
+ap1 <- pnorm(z)
+ap2 <- 1 - ap1
+
+# Calculate two-sided p-values for exact and approximate methods
+tpv <- min(pv, pv1) * 2
+
+# Return a list containing relevant statistics and p-values
+list(
+  m = m,
+  n = n,
+  N = N,
+  R = r,
+  Exact.pvalue = pv,
+  Exact.pvalue2 = pv1,
+  Approx.pvalue1 = ap1,
+  Approx.pvalue2 = ap2,
+  Exact.2sided.pvalue = tpv,
+  Approx.2sided.pvalue = min(ap1, ap2) * 2
+)
