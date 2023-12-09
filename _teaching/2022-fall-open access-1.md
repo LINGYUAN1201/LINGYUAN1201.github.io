@@ -11,7 +11,7 @@ R, as an analytical platform developed by statisticians, has extremely powerful 
 
 *[Cohen Kappa Coefficient](../assets/Cohen Kappa Coefficient.txt)
 
-*[The Run Test](.. /assets/The Run Test.txt)
+*[The Run Test](../assets/The Run Test.txt)
 
 
 
