@@ -9,4 +9,6 @@ date: 2023-11-21
 
 The data we collect is usually not perfect and is often missing. Therefore it is important to deal with missing values.
 
-*[Linear Interpolation](../assets/Linear Interpolation.txt)
+*[Linear Interpolation](https://lingyuan1201.github.io/assets/Linear Interpolation.txt)
+
+
