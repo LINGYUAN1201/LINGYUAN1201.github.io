@@ -10,9 +10,8 @@ date: 2021-10-27
 R, as an analytical platform developed by statisticians, has extremely powerful statistical analysis capabilities. Therefore some statistical tests and coefficient calculations based on R have great value.
 
 Cohen Kappa Coefficient
-======
 
 The Run Test
-======
+
 
 
