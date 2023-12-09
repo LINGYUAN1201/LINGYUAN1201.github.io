@@ -1,9 +1,9 @@
 ---
 title: "BSC-Based Performance Evaluation Model for Securities Industry and Its Application"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-07-14-paper-title-number-1
 excerpt: 'This article is about performance evaluation and improves on the composite weighting method.'
-date: 2022-7-14
+date: 2022-07-14
 venue: 'Journal of Function Spaces'
 paperurl: 'http://LINGYUAN1201.github.io/files/bsc.pdf'
 ---
