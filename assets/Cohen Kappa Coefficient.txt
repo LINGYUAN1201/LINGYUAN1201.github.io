@@ -1,0 +1,35 @@
+# Create a vector 'a' containing the observed values
+a <- c(32, 4, 13, 4, 3, 21, 11, 44, 32, 21, 2, 28, 6, 1, 2, 44)
+
+# Convert vector 'a' to a 4x4 matrix 'x' with row-wise filling
+x <- matrix(a, nrow = 4, ncol = 4, byrow = TRUE)
+x
+
+# Extract the third column from matrix 'x' to form a new matrix 'w'
+# Calculate I, n, and normalize 'w'
+w <- matrix(x[, 3], byrow = TRUE, ncol = 2)
+I <- nrow(w)
+n <- sum(w)
+w <- w/n
+
+# Calculate pa, pe, and kappa
+pa <- sum(diag(w))
+pe <- sum(apply(w, 1, sum) * apply(w, 2, sum))
+kap <- (pa - pe) / (1 - pe)
+
+# Calculate the A statistic
+A <- sum(diag(w) * (1 - (apply(w, 1, sum) + apply(w, 2, sum)) * (1 - kap))^2)
+
+# Calculate the B statistic
+tempB <- matrix(rep(apply(w, 1, sum), I) + rep(apply(w, 2, sum), each = I), byrow = TRUE, ncol = I)
+diag(tempB) = 0
+B <- (1 - kap)^2 * sum(w * tempB^2)
+
+# Calculate the CC statistic and ASE (standard error)
+CC <- (kap - pe * (1 - kap))^2
+ASE <- sqrt((A + B - CC) / (1 - pe)^2 / n)
+
+# Return a list containing kappa, ASE, and the confidence interval
+list(kappa = kap,
+     ASE = ASE,
+     CI = c(kap - 1.96 * ASE, kap + 1.96 * ASE))
