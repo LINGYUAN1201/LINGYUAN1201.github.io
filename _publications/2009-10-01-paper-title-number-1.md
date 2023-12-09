@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This article is about performance evaluation and improves on the composite weighting method.'
 date: 2022-7-14
 venue: 'Journal of Function Spaces'
-paperurl: '[Download paper here](http://LINGYUAN1201.github.io/files/bsc.pdf)'
+paperurl: 'http://LINGYUAN1201.github.io/files/bsc.pdf'
 ---
 
 This article is about performance evaluation and improves on the composite weighting method.
