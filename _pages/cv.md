@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Economics, Majored in Economics Statistics, SuZhou University, 2023
 
-Work experience
+Internship
 ======
 * Summer 2022: Statistician
   * Hefei Insignia Technology Company
