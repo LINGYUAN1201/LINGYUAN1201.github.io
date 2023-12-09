@@ -1,5 +1,5 @@
 ---
-title: "Some Statistical Tests and Coefficient Calculations Based on R"
+title: "Some Statistical Tests and Coefficient Calculations"
 collection: open access
 type: "R-based"
 permalink: /open access/2021-spring-open access-1
