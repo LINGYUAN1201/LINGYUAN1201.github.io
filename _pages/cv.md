@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, Majored in Economics Statistics, SuZhou University, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Statistician
+  * Hefei Insignia Technology Company
+  * Duties included: Financial data analysis, Corporate data cleaning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Data Analyst
+  * H3C Technologies Co., Limited
+  * Duties included: Corporate data cleaning
+  
+* Fall 2020: Marketing Assistant
+  * EDUA
+  * Duties included: Market survey
+
+* Summer 2020: Research Assistant
+  * SuZhou university
+  * Duties included: Fieldwork, Data cleaning
+ 
   
 Skills
 ======
