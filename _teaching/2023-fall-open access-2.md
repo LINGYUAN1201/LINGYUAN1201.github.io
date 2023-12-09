@@ -1,7 +1,7 @@
 ---
 title: "Missing Value Processing"
 collection: open access
-type: "R based"
+type: "R-based"
 permalink: /open access/2023-fall-open access-2
 venue: "Interpolation"
 date: 2023-11-21
