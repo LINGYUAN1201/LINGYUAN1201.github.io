@@ -1,6 +1,6 @@
 ---
 title: "Some R-based Statistical Tests"
-collection: teaching
+collection: open access
 type: "R-based"
 permalink: /open access/2021-spring-open access-1
 venue: "Tests"
