@@ -1,11 +1,11 @@
 ---
-title:"Research on Coupling and Coordination of Rail Demand Market "
+title: "BSC-Based Performance Evaluation Model for Securities Industry and Its Application"
 collection: publications
-permalink: /publication/2021-11-14-paper-title-number-3
-excerpt:'This paper provides a comprehensive evaluation study of the development of China's railway infrastructure industry.'
-date:2021-11-14
-venue:'2021 4th International Symposium on Traffic Transportation and Civil Architecture (ISTTCA)'
-paperurl:'http://LINGYUAN1201.github.io/files/rail.pdf'
+permalink: /publication/2022-07-14-paper-title-number-1
+excerpt: 'This article is about performance evaluation and improves on the composite weighting method.'
+date: 2022-07-14
+venue: 'Journal of Function Spaces'
+paperurl: 'http://LINGYUAN1201.github.io/files/bsc.pdf'
 ---
 
 This paper provides a comprehensive evaluation study of the development of China's railway infrastructure industry.
