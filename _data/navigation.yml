@@ -5,16 +5,16 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Working Projects"
-    url: /working projects/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Open Access"
+    url: /open-access/    
+    
+  - title: "Working Projects"
+    url: /working-projects/
+
+    
+
 
