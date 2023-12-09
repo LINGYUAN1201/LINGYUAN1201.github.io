@@ -16,6 +16,6 @@ Currently, I studied some econometric models, machine learning algorithms. My ma
 
 I am also an invited reviewer for some well-known academic journals, such as International Review of Financial Analysis, Finance Research Letters, Energy Strategy Reviews, and so on.
 
-My main research work is based on R. I have also learnt MATLAB, Python, Eviews and other software. Therefore, I am committed to open access and I will share my code and research on Github and my personal homepage.
+My main research work is based on R. I have also learnt MATLAB, Python, Eviews and other software. I am committed to open access and I will share my code and research on Github and my personal homepage.
 
 Here is my [CV](../assets/Ling_CV__1_.pdf).
