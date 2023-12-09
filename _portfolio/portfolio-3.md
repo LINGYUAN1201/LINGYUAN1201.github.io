@@ -4,4 +4,4 @@ excerpt: "Evolutionary game simulation with two subjects<br/><img src='/images/p
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this study, system dynamics simulation is introduced into business studies. A mathematical model is constructed based on the elements of benefits, costs, losses and penalties of each subject, and the influence of each element on the subject's decision-making is analysed by solving the dynamic differential equations. And use Python, MATLAB and Netlogo to simulate the dynamic game behaviour among multiple subjects.
