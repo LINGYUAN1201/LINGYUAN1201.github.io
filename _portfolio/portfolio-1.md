@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Optimised Recurrent Neural Network Prediction Model"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/plot1.png'>"
 collection: portfolio
 ---
