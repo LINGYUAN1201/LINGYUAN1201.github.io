@@ -30,6 +30,7 @@ Work experience
 * Summer 2020: Research Assistant
   * SuZhou university
   * Duties included: Fieldwork, Data cleaning
+  * Supervisor：Prof.Shanhui Sun
 
 Skills
 ======
