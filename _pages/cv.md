@@ -34,13 +34,21 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Management
+  * Proficient in SQL, Excel and Access based database management
+* Data processing and analysis
+  * Proficient in data analysis using MATLAB, Python and R.
+* System simulation
+  * Ability to master system dynamics simulation based on MATLAB, Python and Netlogo.
+* Machine learning framework
+  * Ability to implement some machine learning and deep learning models based on tensorflow to carry out predictions.
 
 Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Excellent Graduation Thesis of Economic Statistics major of Suzhou University.
+* First-Class Academic Scholarship of Suzhou University.
+* Top 10 Students of Suzhou University (Science and Technology Innovation).
+* First Prize of the Eighth National Student Statistical Modelling Competition.
+* First Prize of the 12th National Student Market Research and Analysis Competition.
+* First Prize of the 11th National Student Market Research and Analysis Competition.
+
