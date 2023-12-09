@@ -2,7 +2,7 @@
 title: "Some Statistical Tests and Coefficient Calculations"
 collection: open access
 type: "R-based"
-permalink: /open access/2022-spring-open access-1
+permalink: /open access/2022-fall-open access-1
 venue: "Tests and Coefficient Calculations"
 date: 2022-10-27
 ---
