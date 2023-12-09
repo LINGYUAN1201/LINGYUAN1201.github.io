@@ -7,13 +7,4 @@ venue: "Interpolation"
 date: 2023-11-21
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The data we collect is usually not perfect and is often missing. Therefore it is important to deal with missing values.
