@@ -1,19 +1,18 @@
 ---
-title: "Some R-based Statistical Tests"
+title: "Some Statistical Tests and Coefficient Calculations Based on R"
 collection: open access
 type: "R-based"
 permalink: /open access/2021-spring-open access-1
-venue: "Tests"
+venue: "Tests and Coefficient Calculations"
 date: 2021-10-27
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+R, as an analytical platform developed by statisticians, has extremely powerful statistical analysis capabilities. Therefore some statistical tests and coefficient calculations based on R have great value.
 
-Heading 1
+Cohen Kappa Coefficient
 ======
 
-Heading 2
+The Run Test
 ======
 
-Heading 3
-======
+
