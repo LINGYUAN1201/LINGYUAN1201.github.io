@@ -1,0 +1,21 @@
+# Using the built-in airquality dataset in R
+data(airquality)
+
+# Introducing missing values, for example, taking the first 10 rows of the Ozone column
+set.seed(123)
+airquality$Ozone[sample(1:10, 5)] <- NA
+
+# Linear interpolation function
+linear_interpolation <- function(x) {
+  na_idx <- which(is.na(x))
+  if (length(na_idx) == 0) {
+    return(x)
+  }
+  non_na_idx <- which(!is.na(x))
+  x[na_idx] <- approx(non_na_idx, x[non_na_idx], xout = na_idx)$y
+  return(x)
+}
+
+# Applying linear interpolation to handle missing values for multiple variables
+result <- as.data.frame(lapply(airquality, linear_interpolation))
+print(result)
