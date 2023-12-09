@@ -37,7 +37,7 @@ Skills
 * Data Management
   * Proficient in SQL, Excel and Access based database management
 * Data processing and analysis
-  * Proficient in data analysis using MATLAB, Python and R.
+  * Proficient in using MATLAB, Python and R for data processing, statistical analysis, econometric analysis and modeling
 * System simulation
   * Ability to master system dynamics simulation based on MATLAB, Python and Netlogo.
 * Machine learning framework
