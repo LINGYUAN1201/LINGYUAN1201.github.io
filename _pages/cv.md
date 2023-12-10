@@ -49,12 +49,24 @@ Funding
 ======
 * Statistical Survey and Countermeasures Research on Stall Business in the Post-Covid-19 Era
   * Funding amount: 15,000 RMB
+  * Identity: Project leader
   * Project type: National Undergraduate Training Program for Innovation
   * Supported by: Ministry of Education of the PRC, Anhui Provincial Department of Education, Suzhou University Finance Office
 * "GUANGXIN" Digital Asset Management and Operation
   * Funding amount: 5,000 RMB
+  * Identity: Project leader
   * Project type: Undergraduate Training Programme for Entrepreneurship in Anhui Province
   * Supported by: Anhui Provincial Department of Education, Suzhou University Finance Office
+* Interview Survey and Countermeasures Research on School Bullying Phenomenon
+  * Funding amount: 1,000 RMB
+  * Identity: Project leader
+  * Project type: Undergraduate Research and Innovation Programme in Suzhou University
+  * Supported by: Suzhou University Finance Office
+* A Study on the Classification and Emotional Tendency of E-Sports Groups of College Students in Anhui Province
+  * Funding amount: 1,000 RMB
+  * Identity: Project leader
+  * Project type: Undergraduate Research and Innovation Programme in Suzhou University
+  * Supported by: Suzhou University Finance Office
 
 Honors and Awards
 ======
