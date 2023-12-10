@@ -34,16 +34,16 @@ Internship
 
 Skills
 ======
-* Data Management
+* Data Collection and Management
+  * Ability to perform data crawling based on Python
   * Proficient in SQL, Excel and Access based database management
 * Data Processing and Analysis
-  * Proficient in using MATLAB, Python and R for data processing, statistical analysis, econometric analysis and modeling
-* System Simulation
-  * Ability to master system dynamics simulation based on MATLAB, Python and Netlogo.
+  * Proficient in using MATLAB, Python and R for data processing, statistical analysis, econometric analysis and modeling System Simulation
+  * Ability to master system dynamics simulation based on MATLAB, Python and Netlogo
 * Machine Learning Framework
-  * Ability to implement some machine learning and deep learning models based on tensorflow to carry out predictions.
+  * Ability to implement some machine learning and deep learning models based on tensorflow to carry out predictions
 * Academic Paper Writing and Typesetting
-  * Proficient in the use of latex (including overleaf) and office software for the typesetting of papers.
+  * Proficient in the use of latex (including overleaf) and office software for the typesetting of papers
 
 Funding of Research Programmes
 ======
