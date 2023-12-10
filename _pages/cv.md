@@ -45,7 +45,7 @@ Skills
 * Academic Paper Writing and Typesetting
   * Proficient in the use of latex (including overleaf) and office software for the typesetting of papers.
 
-Funding
+Funding of Research Programmes
 ======
 * Statistical Survey and Countermeasures Research on Stall Business in the Post-Covid-19 Era
   * Funding amount: 15,000 RMB
