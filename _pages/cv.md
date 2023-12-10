@@ -45,6 +45,17 @@ Skills
 * Academic Paper Writing and Typesetting
   * Proficient in the use of latex (including overleaf) and office software for the typesetting of papers.
 
+Funding
+======
+* Statistical Survey and Countermeasures Research on Stall Business in the Post-Covid-19 Era
+  * Funding amount: 15,000 RMB
+  * Project type: National Undergraduate Training Program for Innovation
+  * Supported by: Ministry of Education of the PRC, Anhui Provincial Department of Education, Suzhou University Finance Office
+* "GUANGXIN" Digital Asset Management and Operation
+  * Funding amount: 5,000 RMB
+  * Project type: Undergraduate Training Programme for Entrepreneurship in Anhui Province
+  * Supported by: Anhui Provincial Department of Education, Suzhou University Finance Office
+
 Honors and Awards
 ======
 * Excellent Graduation Thesis of Economic Statistics major of Suzhou University.
