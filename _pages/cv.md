@@ -16,8 +16,8 @@ Education
 Internship
 ======
 * Summer 2022: Statistician
-  * Hefei Insignia Technology Company
-  * Duties included: Financial data analysis, Corporate data cleaning
+  * Anhui Zhongjie Information Technology Ltd.
+  * Duties included: Data analysis, Corporate data cleaning
 
 * Summer 2021: Data Analyst
   * H3C Technologies Co., Limited
@@ -26,11 +26,6 @@ Internship
 * Fall 2020: Marketing Assistant
   * EDUA
   * Duties included: Market survey
-
-* Summer 2020: Research Assistant
-  * SuZhou university
-  * Duties included: Fieldwork, Data cleaning
-  * Supervisor：Prof.Shanhui Sun
 
 Skills
 ======
