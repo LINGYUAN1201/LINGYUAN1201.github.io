@@ -20,7 +20,7 @@ Internship
   * Duties included: Data analysis, Corporate data cleaning
 
 * Summer 2021: Data Analyst
-  * H3C Technologies Co., Limited
+  * H3C Technologies Ltd.
   * Duties included: Corporate data cleaning
   
 * Fall 2020: Marketing Assistant
