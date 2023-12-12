@@ -20,5 +20,8 @@ My main research work is based on R. I have also learnt MATLAB, Python, Eviews a
 
 Here is my [CV](../assets/Ling_CV__1.pdf).
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=LINGYUAN1201.github.io)
+
+Total <span id="busuanzi_value_site_pv"></span> views.
+You are Yuan Ling's<span id="busuanzi_value_site_uv"></span>th friend.
+<span id="busuanzi_value_page_pv"></span> Hits
 
