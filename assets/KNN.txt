@@ -1,0 +1,27 @@
+# Install and load necessary packages
+install.packages("VIM")
+library(VIM)
+
+# Use the built-in mtcars dataset
+data(mtcars)
+
+# Simulate missing values by setting some values to NA
+set.seed(123)
+mtcars_with_missing <- mtcars
+mtcars_with_missing[sample(1:nrow(mtcars), 5), "mpg"] <- NA
+
+# Get all column names of the data frame
+all_columns <- colnames(mtcars_with_missing)
+
+# Loop through each column for imputation
+for (col in all_columns) {
+  # Convert the column to numeric, handling non-numeric values and missing values
+  mtcars_with_missing[[col]] <- as.numeric(as.character(mtcars_with_missing[[col]]))
+  mtcars_with_missing[[col]] <- ifelse(is.na(mtcars_with_missing[[col]]), NA, mtcars_with_missing[[col]])
+}
+
+# Impute missing values using KNN interpolation
+mtcars_imputed <- kNN(mtcars_with_missing, k = 5)
+
+# Output the results to a CSV file
+write.csv(mtcars_imputed, "imputed_mtcars_data_knn.csv", row.names = FALSE)
