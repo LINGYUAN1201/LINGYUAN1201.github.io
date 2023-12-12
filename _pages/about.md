@@ -18,4 +18,4 @@ I am also an invited reviewer for some well-known academic journals, such as *In
 
 My main research work is based on R. I have also learnt MATLAB, Python, Eviews and other software. I am committed to open access and I will share my code and research on Github and my personal homepage.
 
-Here is my [CV](../assets/Ling_CV__1_.pdf).
+Here is my [CV](../assets/Ling_CV__1.pdf).
