@@ -14,7 +14,7 @@ During my undergraduate studies, I studied economics and statistics, and focused
 
 Currently, my main research interests are sustainable development, game theory, econometrics and risk prediction. I am conducting some research, which you can find under " Working Projects ". I have also published some research articles, which you can find under "Publications".
 
-I am an invited reviewer for some well-known academic journals, such as *International Review of Financial Analysis*(ABS-3), *Finance Research Letters*(ABS-2), *Energy Strategy Reviews*, and so on.
+I am an invited reviewer for some well-known academic journals, such as *International Review of Financial Analysis(ABS-3)*, *Finance Research Letters(ABS-2)*, *Energy Strategy Reviews(JCR-Q1)*, and so on.
 
 My main research work is based on R. I have also learnt MATLAB, Python, Eviews and other software. I am committed to open access and I will share my code and research on Github and my personal homepage.
 
