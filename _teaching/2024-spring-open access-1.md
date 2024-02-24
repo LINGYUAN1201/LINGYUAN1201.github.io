@@ -8,6 +8,8 @@ date: 2024-02-24
 ---
 
 The function `gen_dynamic` serves the purpose of generating a dynamic evolving network model and simulating the interaction and evolution of strategies among nodes within the network.
+
+
   
 1. It achieves this by first defining an internal function, `payoff_sug`, which calculates the payoff between nodes specifically for the SUG game (Spatial Ultimatum Game).
 
