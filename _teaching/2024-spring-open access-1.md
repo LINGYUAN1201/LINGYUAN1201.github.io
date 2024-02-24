@@ -30,3 +30,7 @@ The function `gen_dynamic` serves the purpose of generating a dynamic evolving n
 10. At each step of the simulation, the node payoffs and strategy changes are recorded, providing insights into the dynamics of the network.
 
 11. Finally, the function records the final adjacency matrix `final_adj` and returns a list object containing stored payoff and strategy change processes, encapsulating the outcome of the dynamic network evolution simulation.
+
+*[The Function gen_dynamic](../assets/gen_dynamic.txt)
+
+*[The Test code](../assets/test.txt)
