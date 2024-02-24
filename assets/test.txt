@@ -1,0 +1,82 @@
+library(testthat)
+library(igraph)
+
+# Load the function to be tested
+source("gen_dynamic.R")
+
+# Define a test context
+context("gen_dynamic function")
+
+# Test the function with default parameters
+test_that("gen_dynamic function works as expected with default parameters", {
+  # Test parameters
+  N <- 100  # Number of nodes
+  L <- 50   # Number of simulation steps
+  
+  # Test the function with default parameters
+  result <- gen_dynamic(N, L)
+  
+  # Check the structure of the result
+  expect_is(result, "list")
+  expect_true("Y" %in% names(result))
+  expect_true("X" %in% names(result))
+  expect_true("initial_adj" %in% names(result))
+  expect_true("final_adj" %in% names(result))
+  
+  # Check the dimensions of the accumulated payoff matrix
+  expect_equal(dim(result$Y), c(L, N))
+  
+  # Check the dimensions of the payoff matrix list
+  expect_length(result$X, N)
+  expect_equal(dim(result$X[[1]]), c(L, N))
+  
+  # Check the dimensions of the initial and final adjacency matrices
+  expect_equal(dim(result$initial_adj), c(N, N))
+  expect_equal(dim(result$final_adj), c(N, N))
+  
+  # Check that the accumulated payoff for the first node is numeric
+  expect_is(result$Y[,1], "numeric")
+  
+  # Check that all values in the accumulated payoff matrix are finite
+  expect_true(all(is.finite(result$Y)))
+})
+
+# Test the function with different network types and game types
+test_that("gen_dynamic function works as expected with different network types and game types", {
+  # Test parameters
+  N <- 100  # Number of nodes
+  L <- 50   # Number of simulation steps
+  network_types <- c("BA", "ER", "SW")
+  game_types <- c("PDG", "SDG", "DG", "SUG", "CG", "SG", "EG", "SeqG", "RG", "ZZG", "NCG", "IIG")
+  
+  # Test the function with different network types and game types
+  for (net_type in network_types) {
+    for (game_type in game_types) {
+      result <- gen_dynamic(N, L, net_type = net_type, game_type = game_type)
+      
+      # Check the structure of the result
+      expect_is(result, "list")
+      expect_true("Y" %in% names(result))
+      expect_true("X" %in% names(result))
+      expect_true("initial_adj" %in% names(result))
+      expect_true("final_adj" %in% names(result))
+      
+      # Check the dimensions of the accumulated payoff matrix
+      expect_equal(dim(result$Y), c(L, N))
+      
+      # Check the dimensions of the payoff matrix list
+      expect_length(result$X, N)
+      expect_equal(dim(result$X[[1]]), c(L, N))
+      
+      # Check the dimensions of the initial and final adjacency matrices
+      expect_equal(dim(result$initial_adj), c(N, N))
+      expect_equal(dim(result$final_adj), c(N, N))
+      
+      # Check that the accumulated payoff for the first node is numeric
+      expect_is(result$Y[,1], "numeric")
+      
+      # Check that all values in the accumulated payoff matrix are finite
+      expect_true(all(is.finite(result$Y)))
+    }
+  }
+})
