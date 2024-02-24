@@ -2,7 +2,7 @@
 title: "The Function gen_dynamic"
 collection: open access
 type: "R-based"
-permalink: /open access/2024-spring-open access-1.md
+permalink: /open access/2024-spring-open access-1
 venue: "Dynamic network game"
 date: 2024-02-24
 ---
