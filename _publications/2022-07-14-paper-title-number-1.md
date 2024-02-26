@@ -1,15 +1,15 @@
 ---
-title: "BSC-Based Performance Evaluation Model for Securities Industry and Its Application"
+title: "Digital Transformation and Value Creation in the TMT Industry: An Integrated Analysis with Deep Learning"
 collection: publications
 permalink: /publication/2022-07-14-paper-title-number-1
-excerpt: 'This article is about performance evaluation and improves on the composite weighting method.'
+excerpt: 'In this paper, the performance of LSTM prediction algorithm is evaluated and improved, and it is applied.'
 date: 2022-07-14
-venue: 'Journal of Function Spaces'
-paperurl: 'http://LINGYUAN1201.github.io/files/bsc.pdf'
+venue: 'IEEE IT Professional'
+paperurl: Under Review(Revision 1）
 ---
 
-In the study on China’s securities industry, the securities industry is divided into four types: investment in securities, securities brokerage, securities consulting, and securities underwriting and asset management. In this paper, a performance evaluation index system for the securities industry is established by using the balanced scorecard method. Based on the analytic hierarchy process, entropy weight method, and improved entropy weight method, we propose the traditional integrated weighting method and improved integrated weighting method, thus arriving at four different index weight systems. Finally, we work out the comprehensive scores of four types of securities companies under the four index weight systems, analyze the actual situation of China’s securities industry by comparing the scores and rankings of securities companies under the four index weight systems, and then put forward specific suggestions
+This article provides a comprehensive study and predictive modelling of the digital economy sector with China's telecommunications, media and technology (TMT) industry as the subject of this study. Therefore, the share prices of listed companies in the TMT sector are selected in this study to assess their relative values at different stages. An optimised recurrent neural network was also employed to predict future stock price trends. This study not only reveals the direction of business planning for digital transformation, but also finds that the optimised deep learning model has a wide range of applications among business research.
 
-[Download paper here](http://LINGYUAN1201.github.io/files/bsc.pdf)
+
 
 
