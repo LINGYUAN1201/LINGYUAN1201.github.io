@@ -9,4 +9,6 @@ venue: 'Finance Research Letters (Under Review)'
 
 Based on carbon emission market conditions with environmental and energy factors, this paper constructs a stochastic complex network game model. The model innovatively considers the impact of spillover effects on the strategic choices of each player and can be generalized to other scenarios.
 
+By the way, based on this research, I am designing a function gen_dynamic that allows for the simulation of a wide range of complex network games, which you can find in Open Access.
+
 
