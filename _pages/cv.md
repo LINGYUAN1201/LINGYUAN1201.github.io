@@ -67,7 +67,7 @@ Honors and Awards
 ======
 * Excellent Graduation Thesis of Economic Statistics major (*First in the major*).
 * First-Class Academic Scholarship of Suzhou University (*First in the major*).
-* Top 10 Undergraduate Students of Suzhou University (*Science and Technology Innovation*).
+* Top 10 Undergraduate Students in Science and Technology Innovation.
 * First Prize of the Eighth National Student Statistical Modelling Competition.
 * First Prize of the 12th National Student Market Research and Analysis Competition.
 * First Prize of the 11th National Student Market Research and Analysis Competition.
