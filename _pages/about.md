@@ -10,12 +10,14 @@ redirect_from:
 
 Hi, I'm Ling Yuan. This is my personal homepage.
 
-During my undergraduate studies, I studied economics and statistics, and focused on statistical modelling, econometrics and time series analysis.
+Throughout my undergraduate tenure, I pursued an academic trajectory focused on Economics and Statistics, where I delved extensively into the realms of statistical modeling, econometrics, and time series analysis.
 
-Currently, my main research interests are sustainable development, game theory, econometrics and risk prediction. I am conducting some research, which you can find under " Working Projects ". I have also published some research articles, which you can find under "Publications".
+At present, my scholarly pursuits pivot around the spheres of sustainable development, game theory, econometrics, and risk forecasting. I am actively immersed in a spectrum of research endeavors, meticulously detailed within the "Work Projects" section. Moreover, you will find an anthology of my scholarly contributions under the "Publications" tab.
 
-I am an invited reviewer for some well-known academic journals, such as *International Review of Financial Analysis(ABS-3)*, *Finance Research Letters(ABS-2)*, *Energy Strategy Reviews(JCR-Q1)*, and so on.
+I am privileged to hold the esteemed role of a peer reviewer for distinguished academic journals, such as *International Review of Financial Analysis(ABS-3)*, *Finance Research Letters(ABS-2)*, *Energy Strategy Reviews(JCR-Q1)*, and so on.
 
-My main research work is based on R. I have also learnt MATLAB, Python, Eviews and other software. I am committed to open access and I will share my code and research on Github and my personal homepage.
+My proficiency predominantly centers on leveraging the R language for research, complemented by adeptness in MATLAB, Python, and Eviews. Committed to the ethos of open access, I fervently advocate for the dissemination of knowledge and actively share my methodologies, algorithms, and research findings through platforms such as GitHub and my personal homepage.
+
+I eagerly anticipate the opportunity to share deeper insights into my scholarly endeavors and collaborative possibilities with you.
 
 Here is my [CV](../assets/Ling_CV__1.pdf).
