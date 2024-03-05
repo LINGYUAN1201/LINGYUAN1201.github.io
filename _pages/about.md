@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify;">
-
 Hi, I'm Ling Yuan. This is my personal homepage.
 
 Throughout my undergraduate tenure, I pursued an academic trajectory focused on Economics and Statistics, where I delved extensively into the realms of statistical modeling, econometrics, and time series analysis.
@@ -24,4 +22,3 @@ I eagerly anticipate the opportunity to share deeper insights into my scholarly 
 
 Here is my [CV](../assets/Ling_CV__1.pdf).
 
-</div>
