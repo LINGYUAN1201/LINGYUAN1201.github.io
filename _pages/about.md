@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Ling Yuan. This is my personal homepage.
 
-Throughout my undergraduate tenure, I pursued an academic trajectory focused on Economics and Statistics, where I delved extensively into the realms of statistical modeling, econometrics, and time series analysis.
+In my previous studies, I pursued an academic trajectory focused on Economics and Statistics, during which I extensively explored statistical modeling, econometrics, and time series analysis.
 
 At present, my scholarly pursuits pivot around the spheres of sustainable development, game theory, econometrics, and risk forecasting. I am actively immersed in a spectrum of research endeavors, meticulously detailed within the "Work Projects" section. Moreover, you will find an anthology of my scholarly contributions under the "Publications" tab.
 
