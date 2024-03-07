@@ -1,5 +1,5 @@
 ---
-title: "The Function gen_dynamic"
+title: "The genDynamic Package "
 collection: open access
 type: "R-based"
 permalink: /open access/2024-spring-open access-1
