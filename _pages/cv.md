@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, Majored in Economics Statistics(First in the major), SuZhou University, 2023
+* B.S. in Economics, Ranking first in the major, SuZhou University, 2023
 
 Internship
 ======
