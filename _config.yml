@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ling Yuan"
   avatar           : "pet.png"
-  bio              : "I am dedicated to open-source sharing of methods in R and Python.  The research I am currently proposing focuses on the business impacts of the European energy crisis caused by extreme events."
+  bio              : "I am dedicated to open-source sharing of methods in R and Python."
   location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
