@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, Ranking first in the major, SuZhou University, 2023
+* B.S. in Economics, Ranking first in the major, SuZhou University, 2019-2023
+* MRes in Management Science, Lancaster University, 2024-2025
 
 Internship
 ======
@@ -65,10 +66,11 @@ Funding of Research Programmes
 
 Honors and Awards
 ======
-* Excellent Graduation Thesis of Economic Statistics major (*First in the major*).
-* First-Class Academic Scholarship of Suzhou University (*First in the major*).
-* Top 10 Undergraduate Students in Science and Technology Innovation.
-* First Prize of the Eighth National Student Statistical Modelling Competition.
-* First Prize of the 12th National Student Market Research and Analysis Competition.
-* First Prize of the 11th National Student Market Research and Analysis Competition.
+* Lancaster Management School Master's Scholarship
+* Excellent Graduation Thesis of Economic Statistics major (*First in the major*)
+* First-Class Academic Scholarship of Suzhou University (*First in the major*)
+* Top 10 Undergraduate Students in Science and Technology Innovation
+* First Prize of the Eighth National Student Statistical Modelling Competition
+* First Prize of the 12th National Student Market Research and Analysis Competition
+* First Prize of the 11th National Student Market Research and Analysis Competition
 
