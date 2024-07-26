@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Generative Artificial Intelligence on Stock Market Reaction An Empirical Study of Listed Companies in the United States - second version(1)"
+title: "The Impact of Generative Artificial Intelligence on Stock Market Reaction An Empirical Study of Listed Companies in the United States"
 excerpt: "Empirical research"
 collection: portfolio
 ---
