@@ -1,7 +1,7 @@
 ---
-title: "Business Studies Based on System Dynamics Simulation"
-excerpt: "Research article"
+title: "Impact of Digital Transformation Decisions on Market Investment: A System Dynamics and Evolutionary Game Approach"
+excerpt: "Operational Research"
 collection: portfolio
 ---
 
-In this study, system dynamics simulation is introduced into business studies. A mathematical model is constructed based on the elements of benefits, costs, losses and penalties of each subject, and the influence of each element on the subject's decision-making is analysed by solving the dynamic differential equations. And use Python, MATLAB and Netlogo to simulate the dynamic game behaviour among multiple subjects.
+This study conducts a systematic dynamics analysis to examine whether decisions regarding digital transformation in enterprises can attract market investments. An evolutionary game model is constructed based on the elements of returns, costs, losses, and penalties for each entity. By solving dynamic differential equations, the study analyzes the impact of various elements on the decision-making of entities, followed by a simulation analysis.
