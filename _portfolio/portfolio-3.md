@@ -1,6 +1,6 @@
 ---
 title: "Business Studies Based on System Dynamics Simulation"
-excerpt: "Evolutionary game simulation with two subjects<br/><img src='/images/plot2.png'>"
+excerpt: "Research article"
 collection: portfolio
 ---
 
