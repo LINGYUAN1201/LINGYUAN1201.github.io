@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, Ranking first in the major, SuZhou University, 2019-2023
-* MRes in Management Science, Lancaster University, 2024-2025
+* 2019-2023 Bachelor of Economics(Economic statistics), School of Mathematics and Statistics, SuZhou University
+* 2024-2025 MRes in Management Science, Lancaster University Management School, Lancaster University
 
 Internship
 ======
