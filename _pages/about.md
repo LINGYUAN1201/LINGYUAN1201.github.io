@@ -15,5 +15,5 @@ Currently, my academic research primarily focuses on the fields of operations re
 Due to my current technical capabilities, the tools I have developed at this stage still have certain limitations (such as the requirement for high-performance CPUs and GPUs, high-speed internet, and substantial bandwidth).  Nevertheless, I am dedicated to optimizing these tools to make them more adaptable to a broader range of application environments.
 
 ## Others
-If you encounter any issues or have any questions while using my code, please feel free to email me. My email address is available in the left sidebar, and for your convenience, here is my email address highlighted: **LingYUAN1201@outlook.com**.
+If you encounter any issues or have any questions while using my code, please feel free to email me. My email address is available in the left sidebar, and for your convenience, here is my email address highlighted: LingYUAN1201@outlook.com.
 
