@@ -44,4 +44,4 @@ scrape_company_news(
 - Considering that this R package relates to my working project, I can't have open access to this R package until I finish this project.
 
 
-Information about this R package can be found [here](https://github.com/LINGYUAN1201/genDynamic).
+Information about this R package can be found [here](https://github.com/LINGYUAN1201/NewsScraper_Google).
