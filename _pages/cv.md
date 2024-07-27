@@ -70,3 +70,10 @@ Honors and Awards
 * Excellent Graduation Thesis of Economic Statistics major (*First in the major*)
 * First-Class Academic Scholarship of Suzhou University (*First in the major*)
 
+Journal Reviewer
+======
+* International Review of Financial Analysis (ABS-3)
+* Finance Research Letters(ABS-2)
+* Energy Strategy Reviews
+* Digital business
+
