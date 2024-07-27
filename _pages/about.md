@@ -12,5 +12,5 @@ Hi, I'm Ling Yuan. This is my personal homepage.
 
 Currently, my academic research primarily focuses on the fields of operations research and operations management.   I am deeply engaged in a range of research activities, some of which are detailed under the "Working Projects" section.   Additionally, tools developed from these projects can be found under the "Open Access" section.
 
-Here is my [CV](../assets/Ling_CV__1.pdf).
+Due to my current technical capabilities, the tools I have developed at this stage still have certain limitations (such as the requirement for high-performance CPUs and GPUs, high-speed internet, and substantial bandwidth).  Nevertheless, I am dedicated to optimizing these tools to make them more adaptable to a broader range of application environments.
 
