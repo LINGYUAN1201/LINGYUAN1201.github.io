@@ -33,4 +33,4 @@ The function `gen_dynamic` serves the purpose of generating a dynamic evolving n
 
 11. Finally, the function records the final adjacency matrix `final_adj` and returns a list object containing stored payoff and strategy change processes, encapsulating the outcome of the dynamic network evolution simulation.
 
-This R package can be found [here](https://github.com/LINGYUAN1201/genDynamic).
+Information about this R package can be found [here](https://github.com/LINGYUAN1201/genDynamic).
