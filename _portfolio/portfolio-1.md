@@ -1,6 +1,6 @@
 ---
 title: "Optimization of Car Sharing Systems Using Multi-Armed Bandit Algorithms"
-excerpt: "Operational Research(MRes Program)"
+excerpt: "Operational Research - MRes Program"
 collection: portfolio
 ---
 
