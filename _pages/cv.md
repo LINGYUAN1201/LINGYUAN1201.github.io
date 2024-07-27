@@ -77,3 +77,4 @@ Journal Reviewer
 * Energy Strategy Reviews
 * Digital business
 
+Here is my [CV](../assets/Ling_CV__1.pdf).
