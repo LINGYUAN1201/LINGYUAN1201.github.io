@@ -66,11 +66,7 @@ Funding of Research Programmes
 
 Honors and Awards
 ======
-* Lancaster Management School Master's Scholarship
+* Lancaster University Management School Master's Scholarship
 * Excellent Graduation Thesis of Economic Statistics major (*First in the major*)
 * First-Class Academic Scholarship of Suzhou University (*First in the major*)
-* Top 10 Undergraduate Students in Science and Technology Innovation
-* First Prize of the Eighth National Student Statistical Modelling Competition
-* First Prize of the 12th National Student Market Research and Analysis Competition
-* First Prize of the 11th National Student Market Research and Analysis Competition
 
