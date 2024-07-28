@@ -18,4 +18,28 @@ This Python code utilizes the sympy library to perform symbolic computations rel
 
 In summary, the code analyzes the linearization properties of a given nonlinear dynamic system by calculating and examining its Jacobian matrix, determinant, and trace. This information is useful for understanding the stability characteristics of equilibrium points in the system.
 
-*[Analysis of Nonlinear Dynamic Systems](../assets/Nonlinear Dynamic Systems.txt)
+```python
+import sympy as sp
+
+# Define symbols
+x, y, a, p, c1, c2 = sp.symbols('x, y, a, p, c1, c2')
+
+# Define dynamic equations
+F1 = x*(1-x)*(a*p*y-c1)
+F2 = y*(1-y)*((1-a)*p*x-c2);
+
+# Calculate Jacobian matrix
+J = sp.Matrix([[sp.diff(F1, x), sp.diff(F1, y)], [sp.diff(F2, x), sp.diff(F2, y)]])
+
+# Output Jacobian matrix
+print("Jacobian Matrix:")
+print(J)
+
+# Calculate determinant and trace of Jacobian matrix
+det_J = sp.simplify(J.det())
+trace_J = sp.simplify(J.trace())
+
+# Output results
+print("Determinant of Jacobian Matrix (Simplified):", det_J)
+print("Trace of Jacobian Matrix (Simplified):", trace_J)
+```
