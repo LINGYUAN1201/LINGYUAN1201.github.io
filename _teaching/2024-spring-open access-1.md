@@ -23,4 +23,4 @@ DynamicNetSim includes the following main functions:
 - `gen_dynamic(N, L, aver_k, net_type, game_type, visualize)`: Generates a dynamic network and simulates game-theoretic interactions.
 
 ## Others
-Information about this R package can be found [here](https://github.com/LINGYUAN1201/genDynamic).
+Information about this R package can be found [here](https://github.com/LINGYUAN1201/DynamicNetSim).
