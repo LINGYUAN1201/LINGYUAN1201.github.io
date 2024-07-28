@@ -28,6 +28,7 @@ The scrape_company_news function will generate an Excel file specified by output
 
 **Main Function Format**
 
+```r
 scrape_company_news(
   file_path = "x_x_x.xlsx",
   start_date = "YYYY-MM-DD", 
@@ -37,7 +38,7 @@ scrape_company_news(
   country = "US",
   output_file = "All_news.xlsx"
 )
-
+```
 
 **Clarification**
 - After testing, this version of the R package has high network and bandwidth requirements, so I'm trying to further optimise the code structure to make it work more consistently.
