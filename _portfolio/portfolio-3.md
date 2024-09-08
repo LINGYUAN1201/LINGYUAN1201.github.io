@@ -1,4 +1,9 @@
-# **Supply Chain Risk Prediction and Early Warning System Integrating Large Language Models and Generative AI**
+---
+title: "Supply Chain Risk Prediction and Early Warning System Integrating Large Language Models and Generative AI"
+excerpt: "Keywords: Supply Chain, LLMs, AI, Risk model"
+collection: portfolio
+---
+
 
 ## Project Overview
 
