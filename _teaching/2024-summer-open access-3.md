@@ -98,4 +98,4 @@ To start the program:
 With these instructions, users can effectively operate the `train.exe` news scraper tool and customize their scraping experience based on individual or batch ticker preferences. Proper system configuration and file formatting will ensure smooth operation and high-performance results.
 
 
-**You can download it here**
+**You can download it [here](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9iMGY0YTBmYWJlOGU4YWEzL0VTYy04Z1NKczZWR21ZZTJJOTZaTzdzQm9VQkpMT0FHSzJmS2hZVDhRV0QzcEE%5FZT1yYzZRcDQmd2RPcmlnaW49T1dBLkxJTksmd2RQcmV2aW91c1Nlc3Npb249NTdiZGQyNjEtZGM5OS01ZjRiLTk5NTYtN2VlNmE3YWIyMTNk&cid=B0F4A0FABE8E8AA3&id=B0F4A0FABE8E8AA3%21s04f23e27b38946a59987b623de993bbb&parId=B0F4A0FABE8E8AA3%21147&o=OneUp)**
