@@ -53,7 +53,7 @@ Funding of Research Programmes
 Honors and Awards
 ======
 * Lancaster University Management School Master's Scholarship
-* Grade for the thesis: Distinction (*First in the major*)
+* Grade for the Thesis: Distinction (*First in the major*)
 * First-Class Academic Scholarship (*First in the major*)
 
 Journal Reviewer
