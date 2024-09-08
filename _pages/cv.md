@@ -14,20 +14,6 @@ Education
 * 2019-2023 Bachelor of Economics(Economic statistics), School of Mathematics and Statistics, SuZhou University
 * 2024-2025 MRes in Management Science, Lancaster University Management School, Lancaster University
 
-Internship
-======
-* Summer 2022: Statistician
-  * Anhui Zhongjie Information Technology Ltd.
-  * Duties included: Data analysis, Corporate data cleaning
-
-* Summer 2021: Data Analyst
-  * H3C Technologies Ltd.
-  * Duties included: Corporate data cleaning
-  
-* Fall 2020: Marketing Assistant
-  * EDUA
-  * Duties included: Market survey
-
 Skills
 ======
 * Data Collection and Management
@@ -67,8 +53,8 @@ Funding of Research Programmes
 Honors and Awards
 ======
 * Lancaster University Management School Master's Scholarship
-* Excellent Graduation Thesis of Economic Statistics major (*First in the major*)
-* First-Class Academic Scholarship of Suzhou University (*First in the major*)
+* Grade for the thesis: Distinction (*First in the major*)
+* First-Class Academic Scholarship (*First in the major*)
 
 Journal Reviewer
 ======
