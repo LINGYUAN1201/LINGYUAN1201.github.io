@@ -7,9 +7,11 @@ venue: "Get news"
 date: 2024-08-19
 ---
 
+This project introduces a Python-based news scraper tool that leverages PyQt5 for the graphical user interface (GUI) and utilizes Selenium and BeautifulSoup for scraping financial news from websites such as Yahoo Finance. 
+
 ## 1. Introduction
 
-This project introduces a Python-based news scraper tool that leverages PyQt5 for the graphical user interface (GUI) and utilizes Selenium and BeautifulSoup for scraping financial news from websites such as Yahoo Finance. The tool allows users to scrape news for individual or multiple stock tickers and export the results in CSV, JSON, or TXT formats. Packaged into a standalone Windows executable file (`.exe`), the tool can be run without requiring a Python environment.
+The tool allows users to scrape news for individual or multiple stock tickers and export the results in CSV, JSON, or TXT formats. Packaged into a standalone Windows executable file (`.exe`), the tool can be run without requiring a Python environment.
 
 ## 2. Features
 
