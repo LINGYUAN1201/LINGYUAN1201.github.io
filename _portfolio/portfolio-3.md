@@ -49,10 +49,12 @@ As supply chains become increasingly complex and globalized, the types and sever
 ## Research Innovations
 
 1. **Integration and Analysis of Multi-Source Data:** By combining traditional supply chain management data with external real-time data (e.g., news and social media), the project significantly enhances the identification of potential supply chain risks.
-   
+
 2. **Application of Generative AI:** The innovative application of Generative AI in simulating and predicting supply chain risk scenarios greatly improves the precision and scope of disruption forecasting.
 
 3. **Dynamic Risk Assessment Models:** The dynamic risk assessment models built using LLMs and Generative AI can automatically adjust predictions based on changes in the external environment, thus enhancing the flexibility and foresight of supply chain management.
+
+   **More information can be found in [Open access](https://lingyuan1201.github.io/open-access/)**
 
 ## Current Research Progress
 
