@@ -54,7 +54,6 @@ As supply chains become increasingly complex and globalized, the types and sever
 
 3. **Dynamic Risk Assessment Models:** The dynamic risk assessment models built using LLMs and Generative AI can automatically adjust predictions based on changes in the external environment, thus enhancing the flexibility and foresight of supply chain management.
 
-   **More information can be found in [Open access](https://lingyuan1201.github.io/open-access/)**
 
 ## Current Research Progress
 
@@ -63,6 +62,8 @@ As supply chains become increasingly complex and globalized, the types and sever
 2. **LLMs Deployment:** A local deployment and fine-tuning of a 7B LLM has been completed via Ollama (utilizing the open-source model LLaMA 3.0 and fine-tuned with an RTX 4090 GPU). Additionally, a localized knowledge base has been constructed. By combining fine-tuning with Retrieval-Augmented Generation (RAG) techniques, the model achieves high accuracy outputs at low cost.
 
 3. **Development of Supply Chain Network Models:** A multi-node system dynamics evolutionary R package has been designed based on complex network game theory, simulating dynamic games between nodes and generating decision matrices and payoff matrices.
+
+   **More information can be found in [Open access](https://lingyuan1201.github.io/open-access/)**
 
 ## Next Steps
 
