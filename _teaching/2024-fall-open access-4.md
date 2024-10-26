@@ -68,4 +68,50 @@ daily_mean_results <- daily_mean_t_test(ar_df, event_window = c(-10, 10))
 ## Others
 This R package is based on Python code for the same functionality, designed with the ease of use of R in mind. If you are interested in this content, you can contact me directly.
 
+### Part of code
+```python
+import pandas as pd
+import numpy as np
+from statsmodels.regression.linear_model import OLS
+from statsmodels.tools import add_constant
+from scipy import stats
+from scipy.stats import binomtest, wilcoxon, ttest_1samp
+from google.colab import files
+from openpyxl import load_workbook
+from openpyxl.styles import PatternFill
+
+# Step 1: Load and clean the data
+def load_and_prepare_data(event_file, firm_file, market_file):
+    event_df = pd.read_excel(event_file).rename(columns=str.lower)
+    firm_df = pd.read_excel(firm_file).rename(columns=str.lower)
+    market_df = pd.read_excel(market_file).rename(columns=str.lower)
+    
+    for df in [event_df, firm_df, market_df]:
+        df.columns = df.columns.str.strip()
+    event_df['date'] = pd.to_datetime(event_df['date'])
+    firm_df['date'] = pd.to_datetime(firm_df['date'])
+    market_df['date'] = pd.to_datetime(market_df['date'])
+    
+    merged_df = pd.merge(firm_df, market_df, on='date')
+    return event_df, merged_df
+
+# Step 2: Define window parameters
+ESTIMATION_WINDOW = 120
+EVENT_WINDOW = (-10, 10)
+WINDOW_LENGTH = EVENT_WINDOW[1] - EVENT_WINDOW[0] + 1
+
+# Step 3: Define the calculation functions for CAR and statistical tests
+def calculate_statistics(ar):
+    CAR = ar.sum()
+    if len(ar) > 1 and ar.std(ddof=1) > 0:
+        t_stat = CAR / (ar.std(ddof=1) / np.sqrt(len(ar)))
+        p_value = stats.t.sf(np.abs(t_stat), len(ar) - 1) *2 # two-tailed test
+    else:
+        t_stat, p_value = np.nan, np.nan
+    return CAR, t_stat, round(p_value, 5)
+
+...
+
+```
+
 My email: LingYUAN1201@outlook.com
