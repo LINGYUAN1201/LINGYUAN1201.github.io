@@ -2,7 +2,7 @@
 title: "News Scraper Tool (`train.exe`) User Guide"
 collection: open access
 type: "Python-based"
-permalink: /open access/22024-summer-open access-3
+permalink: /open access/2024-summer-open access-3
 venue: "Get news"
 date: 2024-08-19
 ---
