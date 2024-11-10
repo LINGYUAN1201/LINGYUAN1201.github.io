@@ -7,6 +7,8 @@ venue: "Event study"
 date: 2024-10-19
 ---
 
+These tools are designed to solve the problem of calculating and testing for event study
+
 ## Introduction
 `EventAnalysis` is an R package designed for event study analysis, helping researchers and analysts to assess the impact of events on stock returns, financial indicators, and other metrics. This package is especially useful for financial market research, allowing users to flexibly set event windows and benchmarks.
 You can install the package directly from GitHub using `library`:
