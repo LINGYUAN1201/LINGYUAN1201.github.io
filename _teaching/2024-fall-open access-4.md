@@ -25,7 +25,7 @@ More information can be found in [here](https://github.com/LINGYUAN1201/EventAna
 The `event_study` package allows users to perform event study analyses on financial data. It supports multiple models, including the Market Model, Market-Adjusted Model, and Fama-French Factor Models (3-Factor, 4-Factor, and 5-Factor models). Users can specify the event window, estimation window, and choose whether to generate visualizations.
 You can install the package directly from GitHub using `pip`:
 ```python
-pip install git+https://github.com/your_username/event_study.git
+pip install git+https://github.com/LINGYUAN1201/event_study.git
 ```
 
 More information can be found in [here](https://github.com/LINGYUAN1201/event_study)
