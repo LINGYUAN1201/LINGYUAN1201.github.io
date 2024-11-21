@@ -1,13 +1,7 @@
 ---
-title: "Optimization of Car Sharing Systems Using Multi-Armed Bandit Algorithms"
+title: "Dynamic Pricing Optimization for Electric Transportation Energy Services"
 excerpt: "Operational Research - MRes Program"
 collection: portfolio
 ---
 
-Car sharing has emerged as a sustainable and cost-effective alternative to traditional car ownership, contributing to reduced urban congestion and environmental impact.  However, the dynamic nature of demand and supply in car sharing systems presents significant operational challenges.  Multi-armed bandit algorithms, known for their efficiency in sequential decision-making problems, offer a promising approach to address these challenges.
-
-
-#### Objectives
-1.  **Develop a Multi-Armed Bandit Model for Car Sharing:** Formulate the car sharing problem as a MAB problem, identifying key parameters such as vehicle availability, user demand, and location-based rewards.
-2.  **Optimize Resource Allocation:** Use MAB algorithms to dynamically allocate vehicles to locations based on real-time data, maximizing overall system efficiency and user satisfaction.
-3.  **Evaluate Performance:** Conduct simulations and real-world experiments to compare the performance of MAB algorithms with traditional optimization methods in car sharing systems.
+My current research focuses on optimization strategies for dynamic pricing in electric vehicle (EV) energy services, with a specific emphasis on charging and battery swapping systems.  Addressing the challenges posed by uncertainty demand, the project combines stochastic modeling to predict demand variations and reinforcement learning to develop adaptive, real-time pricing strategies.
