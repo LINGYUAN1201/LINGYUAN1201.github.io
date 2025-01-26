@@ -9,40 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+**Education**
 ======
-* 2024-2025 MRes in Management Science, Lancaster University Management School, Lancaster University
+* **2024-2025**  
+  *M.Res in Management Science*, Lancaster University  
+  - Project: Reinforcement Learning for Revenue Management and Dynamic Pricing  
+  - Supervisor: Prof. Dong Li  
 
-Skills
+
+**Skills**
 ======
-* Data Collection and Management
-  * Ability to perform data crawling based on Python
-  * Proficient in SQL, Excel and Access based database management
-* Data Processing and Analysis
-  * Proficient in using MATLAB, Python and R for statistical analysis, econometric analysis and simulation
-  * Processing text data based on Python
-* Machine Learning Framework
-  * Ability to implement machine learning models based on tensorflow to carry out predictions
-* Large Language Model
-  * Fine-tuning and embedding of large language models
-  * Large Language Model Local Deployment and Prompt Tuning
-* Academic Paper Writing and Typesetting
-  * Proficient in the use of latex (including overleaf) and office software for the typesetting of papers
+* **Programming & Software**:  
+  - Proficient in Python, R, MATLAB, Stata, Eviews, SPSS  
+  - Experienced in LaTeX, Word, Excel, PowerPoint, Access  
+* **Data Analysis & Machine Learning**:  
+  - Skilled in statistical analysis, econometric modeling, and simulation using Python, R, and MATLAB  
+  - Experience with TensorFlow for machine learning model implementation  
+  - Proficient in text data processing and sentiment analysis using Python  
+* **Large Language Models**:  
+  - Fine-tuning, embedding, and local deployment of large language models  
+  - Expertise in prompt tuning and workflow development for LLM applications  
+* **Database Management**:  
+  - Proficient in SQL, Excel, and Access for data management and analysis  
+  - Experience in web scraping and data crawling using Python  
 
-
-Honors and Awards
+**Honors and Awards**
 ======
-* Lancaster University Management School Master's Scholarship
-* Grade for the Undergraduate Thesis: Distinction (*First in the major*)
-* First-Class Undergraduate Academic Scholarship (*First in the major*)
-* First Price of Undergraduate Mathematical Contest in Modeling
-* First Prize of National College Student Statistical Modeling Competition
-* First Prize of National College Student Market Research and Analysis Competition
+* Lancaster University Management School Master's Scholarship (2024)  
+* Excellent Graduation Thesis (Grade: 90) (2023)  
+* National Undergraduate Training Program (RMB 25,000; Role: Leader) (2022)  
+* First-Class Academic Scholarship (2022)  
+* First Prize, 12th National Student Market Research and Analysis Competition (2022)  
+* First Prize, 8th National Student Statistical Modeling Competition (2022)  
 
-Journal Reviewer
+**Academic Service**
 ======
-* International Review of Financial Analysis (ABS-3)
-* Finance Research Letters(ABS-2)
-* Energy Strategy Reviews
-* Digital business
-
+* **Journal Reviewer**:  
+  - *International Review of Financial Analysis* (ABS-3)  
+  - *Finance Research Letters* (ABS-2)  
+  - *Energy Strategy Reviews*  
+  - *Digital Business*  
