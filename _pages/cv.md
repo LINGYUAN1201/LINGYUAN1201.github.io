@@ -50,5 +50,5 @@ redirect_from:
   - *Energy Strategy Reviews*  
   - *Digital Business*
  
-You can find my full CV [here](https://github.com/LINGYUAN1201/LINGYUAN1201.github.io/blob/master/assets/Ling_CV_1_.pdf).
+You can find my full CV [here](https://drive.google.com/file/d/1e64uhS_mftXTE1vBFOr8d-wRln3qMXou/view?usp=sharing).
 
