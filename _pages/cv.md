@@ -48,4 +48,7 @@ redirect_from:
   - *International Review of Financial Analysis* (ABS-3)  
   - *Finance Research Letters* (ABS-2)  
   - *Energy Strategy Reviews*  
-  - *Digital Business*  
+  - *Digital Business*
+ 
+You can find my full CV [here](https://github.com/LINGYUAN1201/LINGYUAN1201.github.io/blob/master/assets/Ling_CV_1_.pdf).
+
