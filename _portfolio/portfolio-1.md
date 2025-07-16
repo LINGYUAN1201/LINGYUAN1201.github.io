@@ -28,7 +28,7 @@ Leveraging real-world operational data from Co-Wheels, we implemented **time ser
 
 <iframe src="/assets/Poster.pdf"
         width="100%" 
-        style="height: 90vh; border: none;">
+        style="height:90vh; border:none;">
 </iframe>
 
 
