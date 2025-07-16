@@ -1,5 +1,5 @@
 ---
-title: Duration and Vehicle Utilization Forecasting for Car Sharing"
+title: Duration and Vehicle Utilization Forecasting for Car Sharing
 excerpt: "Research Project - Collaboration with Co-Well"
 collection: portfolio
 ---
