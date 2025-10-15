@@ -18,7 +18,8 @@ redirect_from:
 
 Hi, I'm **Ling Yuan**. 
 
-I will begin my **PhD in Management** at *Cardiff University* in **September 2025**, funded by the ESRC Doctoral Training Partnership. The research will focus on improving circular economic operations by characterizing, forecasting, and managing reverse logistics flows, in collaboration with industrial partners such as **Brother Industries UK Ltd** and **The Royal Mint**.
+I am currently pursuing a PhD in Management at *Cardiff University*, funded by the [WGSSS Doctoral Training Partnership](https://wgsss.ac.uk/).  
+My research focuses on improving **circular economic operations** by characterizing, forecasting, and managing **reverse logistics flows**, in collaboration with industrial partners such as **Brother Industries UK Ltd** and **The Royal Mint**.
 
 Previously, I completed an **MRes in Management Science** at *Lancaster University*, where I worked on revenue management and pricing optimization for car rental systems. My undergraduate degree was in **Statistics** from *Suzhou University*, where I graduated top of my cohort.
 
@@ -55,4 +56,4 @@ More tools can be found under the [**Open Access**](https://lingyuan1201.github.
 
 If you have any questions or would like to collaborate, feel free to contact me by email — it is available in the sidebar on the left.
 
-_Last updated: July 2025_
+_Last updated: Oct 2025_
