@@ -35,25 +35,11 @@ Previously, I completed an **MRes in Management Science** at *Lancaster Universi
 
 You can explore my ongoing work in the [**Working Projects**](https://lingyuan1201.github.io/working-projects/) section.
 
----
-
-## 🛠️ Tools & Open Access
-
-I actively develop open-access analytical tools as part of my research:
-
-- **[Event Study Tool](https://github.com/LINGYUAN1201/event_study)** – Python package for financial event analysis  
-- **[Event Analysis (R)](https://github.com/LINGYUAN1201/EventAnalysis)** – R-based tool for market event impact assessment  
-- **[Sentiment Analysis Tool](https://github.com/LINGYUAN1201/Sentiment_Analysis)** – Transformer-based sentiment pipeline
-
-These tools are designed for advanced use cases and may require high-performance environments (e.g., strong CPUs/GPUs and sufficient bandwidth). I am continuously working on improving their performance and portability.
-
-More tools can be found under the [**Open Access**](https://lingyuan1201.github.io/open-access/) section.
-
 
 ---
 
 ## 📬 Contact
 
-If you have any questions or would like to collaborate, feel free to contact me by email — it is available in the sidebar on the left.
+If you have any questions or would like to collaborate, feel free to contact me by email.
 
-_Last updated: Oct 2025_
+_Last updated: July 2026
