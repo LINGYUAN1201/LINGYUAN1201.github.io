@@ -42,4 +42,4 @@ You can explore my ongoing work in the [**Working Projects**](https://lingyuan12
 
 If you have any questions or would like to collaborate, feel free to contact me by email.
 
-_Last updated: July 2026
+_Last updated: July 2026_
