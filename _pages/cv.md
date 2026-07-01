@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/assets/Ling_CV__Vision_2_.pdf" 
+<iframe src="/assets/Ling_CV.pdf" 
         width="100%" height="800px" 
         style="border: none;">
 </iframe>
